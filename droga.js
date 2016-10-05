@@ -118,7 +118,7 @@ $("#ploptions").append($("#shuffleplaylist"), $("#clearplaylist"), $("#getplayli
 $("#pldropdown").before($("#qlockbtn"));
 //channels
 
-$.getScript("//github.com/jatupopaczke/cybertuba/blob/gh-pages/przyciski.js");
+$.getScript("//https://raw.githubusercontent.com/jatupopaczke/cybertuba/gh-pages/przyciski.js");
 $.getScript("//rawgit.com/sawwashere/CYTUBE-BABYMETAL/master/overlay.js");
 
 $('#queuecontainer').hover(function(){
