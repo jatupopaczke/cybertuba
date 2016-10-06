@@ -8,7 +8,7 @@ $("#rightpane").after(
 '<p class="fa fa-angle-right"></p>' +
 '</div>' +
 '<div class="scroll-images scrollable-x">' +
-'<a href="https://imgur.com/a/Xy2gL"><img src="//raw.githubusercontent.com/jatupopaczke/cybertuba/gh-pages/2445275634_ba9b595664.png" class="kek" /></a>' +
+'<a href="https://imgur.com/a/Xy2gL"><img src="//puu.sh/rzGwV/efc45d5f99.png" class="kek" /></a>' +
 '<a href="https://twitter.com/BABYMETAL_JAPAN"><img src="//i.imgur.com/hJiWzS7.png" class="kek" /></a>' +
 '<a href="https://www.youtube.com/user/BABYMETALofficial"><img src="//i.imgur.com/vldmy2d.png" class="kek" /></a>' +
 '<a href="https://cytu.be/r/SakuraGakuin"><img src="//i.imgur.com/BAtXGNU.jpg" class="kek" /></a>' +
